@@ -22,6 +22,9 @@
 " curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs \
 "     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 "
+" echo 'cacert=/etc/ssl/certs/ca-certificates.crt' > ~/.curlrc
+" curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+"
 
 " ===
 " === 第一次运行自动加载配置
